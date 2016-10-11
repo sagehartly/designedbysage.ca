@@ -216,6 +216,10 @@ ol {
   padding-left: 1.6em;
 }
 
+.pad-r {
+  padding-right: 0.5rem;
+}
+
 .push {
   margin-bottom: 1.3rem;
 }
