@@ -43,7 +43,8 @@ nav a {
 }
 
 nav a:hover {
-  color: #f7c241;
+  background-color: #f7c241;
+  color: white;
 }
 
 .nav li {
