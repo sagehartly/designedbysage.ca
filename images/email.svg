@@ -1,13 +1,1 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="435" height="93.68" viewBox="0 0 435 93.68">
-  <defs>
-    <style>
-      .cls-1 {
-        font-size: 72px;
-        fill: #f7c241;
-        font-family: KingBasilLite-Regular, King Basil Lite;
-      }
-    </style>
-  </defs>
-  <title>email</title>
-  <text class="cls-1" transform="translate(54.83 75.58)">email me!</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="93.68" viewBox="0 0 435 93.68"><defs><style>.cls-1 { font-size: 72px; fill: #f7c241; font-family: KingBasilLite-Regular, King Basil Lite; }</style></defs><title>email</title><text class="cls-1" transform="translate(54.83 75.58)">email me!</text></svg>
