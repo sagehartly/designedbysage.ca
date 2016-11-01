@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .title {
-  width: 80%;
+  width: 90%;
   max-width: 30em;
 }
 .masthead {
@@ -211,4 +211,8 @@ hr {
 
 .app-process {
   display: block;
+}
+
+.ad-length {
+  width: 50%;
 }
