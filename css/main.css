@@ -59,8 +59,11 @@ nav a:hover {
   padding: 2em 6em 0 4em;
 }
 
-
 @media only screen and (min-width: 38em) {
+
+  nav {
+    padding-top: 2em;
+  }
 
   .logo {
     text-align: left;
