@@ -98,6 +98,16 @@ nav a:hover {
   transform: scale(0.9);
 }
 
+.index-title {
+  background-color: #f7c241;
+  color: black;
+}
+
+.index-lettering {
+  padding-left: 33%;
+  padding-right: 33%;
+}
+
 /*-----------------------FOOTER---------------------*/
 
 footer {
