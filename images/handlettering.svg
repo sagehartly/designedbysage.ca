@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="550" height="122.12" viewBox="0 0 550 122.12">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72px;
+        font-family: KingBasilLite-Regular, King Basil Lite;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+  </defs>
+  <title>handlettering</title>
+  <text class="cls-1" transform="translate(77.04 91.04)">hand lett<tspan class="cls-2" x="300.81" y="0">e</tspan><tspan x="329.25" y="0">ring</tspan></text>
+  <text class="cls-1" transform="translate(4.03 91.04)">&amp;</text>
+</svg>
