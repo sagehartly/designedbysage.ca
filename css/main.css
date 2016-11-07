@@ -99,13 +99,14 @@ nav a:hover {
 }
 
 .index-title {
-  background-color: #f7c241;
+  background-color: white;
   color: black;
+  opacity: 0.8;
 }
 
 .index-lettering {
-  padding-left: 33%;
-  padding-right: 33%;
+  padding-left: 34%;
+  padding-right: 34%;
 }
 
 /*-----------------------FOOTER---------------------*/
