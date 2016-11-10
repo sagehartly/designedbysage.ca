@@ -39,7 +39,6 @@ nav a {
   color: #000;
   font-weight: 300;
   padding: 0;
-  list-style-type: none;
 }
 
 nav a:hover {
@@ -49,6 +48,7 @@ nav a:hover {
 
 .nav li {
   display: inline-block;
+  list-style-type: none;
 }
 
 .title {
@@ -99,9 +99,9 @@ nav a:hover {
 }
 
 .index-title {
-  background-color: white;
+  background-color: #f7c241;
   color: black;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .index-lettering {
