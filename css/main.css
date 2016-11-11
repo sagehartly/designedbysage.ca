@@ -230,3 +230,8 @@ hr {
 .ad-length {
   width: 50%;
 }
+
+.link {
+  text-decoration: none;
+  color: #cf6c19;
+}
