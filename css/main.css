@@ -93,7 +93,8 @@ nav a:hover {
   -webkit-transition-property: transform;
   transition-property: transform;
 }
-.hvr-shrink:hover, .hvr-shrink:focus, .hvr-shrink:active {
+.hvr-shrink:hover, .hvr-shrink:focus, .hvr-shrink:active,
+.hvr-shrink:hover a, .hvr-shrink:focus a, .hvr-shrink:active a {
   -webkit-transform: scale(0.9);
   transform: scale(0.9);
 }
