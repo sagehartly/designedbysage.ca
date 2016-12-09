@@ -238,5 +238,6 @@ hr {
 }
 
 .error404 {
+  padding: 2em;
   background-color: #f5edde;
 }
