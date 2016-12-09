@@ -236,3 +236,7 @@ hr {
   text-decoration: none;
   color: #cf6c19;
 }
+
+.error404 {
+  background-color: #f5edde;
+}
