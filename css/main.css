@@ -240,4 +240,15 @@ hr {
 .error404 {
   padding: 2em;
   background-color: #f5edde;
+  background-image: url("../images/glasses-bg.svg");
+  background-size: 80px auto;
+}
+
+.error-main {
+  width: 100%;
+  border: 3px solid #f7c241;
+}
+
+.404-button {
+  text-decoration: none;
 }
