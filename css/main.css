@@ -246,9 +246,12 @@ hr {
 
 .error-main {
   width: 100%;
+  background-color: #f7c241;
   border: 3px solid #f7c241;
+  border-radius: 54px;
+  margin-top: 3em;
 }
 
-.404-button {
-  text-decoration: none;
+.error-button {
+  color: black;
 }
