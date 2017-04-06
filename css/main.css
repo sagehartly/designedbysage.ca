@@ -25,7 +25,7 @@ body {
 }
 
 main {
-  background-color: #f5edde;
+  background-color: #f1f2f2;
 }
 
 /*-----------------------NAV---------------------*/
@@ -36,13 +36,13 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #000;
-  font-weight: 300;
+  color: #024626;
+  font-weight: 500;
   padding: 0;
 }
 
 nav a:hover {
-  background-color: #f7c241;
+  background-color: #024626;
   color: white;
 }
 
@@ -78,7 +78,7 @@ nav a:hover {
 /*-----------------------HOME PAGE---------------------*/
 
 .portfolio {
-  padding: 3em;
+  padding: 1em;
 }
 
 .hvr-shrink {
@@ -100,9 +100,8 @@ nav a:hover {
 }
 
 .index-title {
-  background-color: #f7c241;
+  background-color: #F2F0ED;
   color: black;
-  opacity: 0.9;
 }
 
 .index-lettering {
@@ -110,10 +109,14 @@ nav a:hover {
   padding-right: 34%;
 }
 
+h3 {
+  font-weight: 300;
+}
+
 /*-----------------------FOOTER---------------------*/
 
 footer {
-  background-color: #f7c241;
+  background-color: #024626;
   text-align: center;
   padding: 1em 2em;
 }
@@ -214,14 +217,16 @@ footer {
 
 h1 {
   font-weight: 400;
+  color: #024626;
 }
 
 h2 {
   font-weight: 200;
+  color: #024626;
 }
 
 hr {
-  color: #f7c241;
+  color: #024626;
 }
 
 .app-process {
